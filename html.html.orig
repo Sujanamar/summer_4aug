@@ -1,0 +1,30 @@
+<html>
+	<head>
+		<title>my cv</title>
+		<link rel="style sheet"href="style.css">
+	</head>
+	<body>
+		<h1>sujana.a</h1>
+		<h2>qualification</h2>
+		<p>btech in ece </p>
+		<p>10th:state board</p>
+		<p>12th:state board</p>
+
+		<h2>hobbies</h2>
+		<p>reading books.</p>
+		<p>watching movies.</p>
+
+
+		<h2>skills</h2>
+		<p>c and cpp programming.</p>
+		<p>html,css</p>
+		<p>python</p>
+	</body>
+</html>
+<<<<<<< HEAD
+this is hobbies nranch
+=======
+
+
+this is skiills branch..
+>>>>>>> skiills.html
