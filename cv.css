@@ -1,6 +1,8 @@
 body{font-family:arial;
-	background-color:blue;
+	background-color:red;
 }
 h1{
-	color:darkblue;
+	color:darkred;
+	color:darkblue
+        color:darkgreen;
 }
